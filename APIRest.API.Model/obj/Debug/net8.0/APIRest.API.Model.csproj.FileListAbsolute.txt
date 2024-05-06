@@ -1,0 +1,12 @@
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\bin\Debug\net8.0\APIRest.API.Model.deps.json
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\bin\Debug\net8.0\APIRest.API.Model.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\bin\Debug\net8.0\APIRest.API.Model.pdb
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.csproj.AssemblyReference.cache
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.AssemblyInfoInputs.cache
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.AssemblyInfo.cs
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.csproj.CoreCompileInputs.cache
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\refint\APIRest.API.Model.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\APIRest.API.Model.pdb
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Model\obj\Debug\net8.0\ref\APIRest.API.Model.dll

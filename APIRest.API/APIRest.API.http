@@ -1,0 +1,6 @@
+@APIRest.API_HostAddress = http://localhost:5096
+
+GET {{APIRest.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

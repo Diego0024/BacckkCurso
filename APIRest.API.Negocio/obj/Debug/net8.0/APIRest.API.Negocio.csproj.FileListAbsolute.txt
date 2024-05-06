@@ -1,0 +1,15 @@
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\bin\Debug\net8.0\APIRest.API.Negocio.deps.json
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\bin\Debug\net8.0\APIRest.API.Negocio.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\bin\Debug\net8.0\APIRest.API.Negocio.pdb
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\bin\Debug\net8.0\APIRest.API.Model.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\bin\Debug\net8.0\APIRest.API.Model.pdb
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.csproj.AssemblyReference.cache
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.AssemblyInfoInputs.cache
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.AssemblyInfo.cs
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest..4FA25DC6.Up2Date
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\refint\APIRest.API.Negocio.dll
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\APIRest.API.Negocio.pdb
+C:\Users\CesarAlfredoOlveraBe\Desktop\APIRest.API\APIRest.API.Negocio\obj\Debug\net8.0\ref\APIRest.API.Negocio.dll
