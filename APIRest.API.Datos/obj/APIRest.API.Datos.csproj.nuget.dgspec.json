@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\APIRest.API.Datos.csproj": {}
+    "C:\\Users\\DiegoVillanuevaTélle\\Desktop\\Copia 2\\APIRest.API.Datos\\APIRest.API.Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\APIRest.API.Datos.csproj": {
+    "C:\\Users\\DiegoVillanuevaTélle\\Desktop\\Copia 2\\APIRest.API.Datos\\APIRest.API.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\APIRest.API.Datos.csproj",
+        "projectUniqueName": "C:\\Users\\DiegoVillanuevaTélle\\Desktop\\Copia 2\\APIRest.API.Datos\\APIRest.API.Datos.csproj",
         "projectName": "APIRest.API.Datos",
-        "projectPath": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\APIRest.API.Datos.csproj",
-        "packagesPath": "C:\\Users\\CesarAlfredoOlveraBe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CesarAlfredoOlveraBe\\Desktop\\APIRest.API\\APIRest.API.Datos\\obj\\",
+        "projectPath": "C:\\Users\\DiegoVillanuevaTélle\\Desktop\\Copia 2\\APIRest.API.Datos\\APIRest.API.Datos.csproj",
+        "packagesPath": "C:\\Users\\DiegoVillanuevaTélle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DiegoVillanuevaTélle\\Desktop\\Copia 2\\APIRest.API.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CesarAlfredoOlveraBe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoVillanuevaTélle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

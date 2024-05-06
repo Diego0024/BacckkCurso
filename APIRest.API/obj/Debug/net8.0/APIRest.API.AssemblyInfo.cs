@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIRest.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cecce8dfe2987bf46ba729a8bfc66207f476879a")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIRest.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIRest.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
